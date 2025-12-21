@@ -12,7 +12,6 @@ bcrypt==4.1.1
 python-multipart==0.0.6
 pdfplumber==0.10.3
 python-docx==0.8.11
-openai==1.6.1
 faiss-cpu==1.13.0
 numpy>=1.25.0
 alembic==1.13.1
@@ -22,3 +21,7 @@ httpx==0.25.2
 requests
 groq
 sentence-transformers
+torch
+transformers
+email-validator
+pytesseract
