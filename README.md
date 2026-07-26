@@ -1,4 +1,4 @@
-# 📚 Smart Study Buddy – Backend
+# 📚 Smart Study Buddy 
 
 A scalable AI-powered backend for **Smart Study Buddy**, an intelligent learning platform that allows students to upload study materials and automatically generate summaries, flashcards, quizzes, study plans, and semantic search results using Large Language Models (LLMs) and vector embeddings.
 
